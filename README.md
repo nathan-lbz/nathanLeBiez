@@ -18,8 +18,8 @@
 ---
 
 ## 📊 Stats GitHub
-![](https://github-readme-stats.vercel.app/api?username=Mzrbt&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzrbt&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nathan-lbz&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-lbz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
