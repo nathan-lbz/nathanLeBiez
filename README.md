@@ -1,8 +1,7 @@
-# 👋 Hey, moi c’est Nathan Lebiez  
+# 👋 Hey, moi c’est Nathan Le Biez  
 
 💻 Étudiant en **développement informatique**  
 ✨ Passionné par la création d’applications et de sites web modernes.  
-⚡ Mon credo : écrire du code propre, efficace et qui marche.  
 
 ---
 
@@ -21,14 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=nathan-lbz&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-lbz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
----
-
-## 🎯 Ce que je fais en ce moment
-- 🔨 Développement en **C** et en **Web (HTML, CSS, PHP, JS)**  
-- 🌱 Apprentissage avancé des bonnes pratiques de dev  
-- 🎨 Création de projets pour monter en compétences  
-
 ---
 
 ## 🌍 Me retrouver
@@ -36,5 +27,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://tonportfolio.com)
 
 ---
-
-✨ *“Le code, c’est l’art de résoudre des problèmes avec de la logique.”*  
