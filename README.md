@@ -18,8 +18,9 @@
 ---
 
 ## 📊 Stats GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=tokyonight)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Mzrbt&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzrbt&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
